@@ -1,0 +1,28 @@
+.jumbotron {
+    height: 800px;
+
+    
+}
+
+.jumbotron h1 {
+    font-size: 10rem;
+    text-align: center;
+}
+
+.jumbotron p {
+    text-align: center;
+    font-size: 2rem;
+}
+
+#previous-work h3 {
+    text-align: center;
+    font-size: 2rem;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.footer {
+    display: flex;
+    height: 150px;
+    background-color: antiquewhite;
+}
